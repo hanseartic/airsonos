@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "flags": "~0.1.2",
-    "ip": "0.3.2",
+    "ip": "1.1.9",
     "lodash": "~2.4.1",
     "nicercast": "0.0.8",
     "nodetunes": "0.1.2",
